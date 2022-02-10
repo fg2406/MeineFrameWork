@@ -14,7 +14,7 @@ public class CreateHotel1 {
 
 
 
-  /*  //1. Tests packagenin altına class olusturun: CreateHotel
+   //1. Tests packagenin altına class olusturun: CreateHotel
 //2. Bir metod olusturun: createHotel
     @Test
     public  void  createHotel() {
@@ -26,11 +26,11 @@ public class CreateHotel1 {
 //    a. Username : manager
 //    b. Password  : Manager1!
 //5. Login butonuna tıklayın.
-        HotelMyCampPage hotelMyCampPage=new HotelMyCampPage();
+        HotelMyCampPage hotelMyCampPage = new HotelMyCampPage();
         hotelMyCampPage.ilkBilgiler();
 
 //6. Hotel Management/Hotel List menusunden ADD HOTEL butonuna tiklayin
-        hotelMyCampPage.hotelManagementButton.click();
+     /*   hotelMyCampPage.hotelManagementButton.click();
         hotelMyCampPage.hotelListLinki.click();
         hotelMyCampPage.addHotelButton.click();
 //7. Açılan sayfadaki tüm metin kutularına istediğiniz verileri girin.
@@ -63,4 +63,5 @@ public class CreateHotel1 {
 
     }
 */
-}
+
+    }}
